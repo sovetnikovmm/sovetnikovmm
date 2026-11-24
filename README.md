@@ -26,7 +26,7 @@ All boards listed below have been assembled, and photos of the finished hardware
 
 | Project | Description |
 |---|---|
-| [li-ion-18650-capacity-meter](https://github.com/sovetnikovmm/li-ion-18650-capacity-meter) | Test device for measuring the discharge capacity of 18650 lithium-ion cells. |
+| [li-ion-18650-capacity-meter](https://github.com/sovetnikovmm/li-ion-18650-capacity-meter) | Test device for measuring the discharge capacity of 18650 lithium-ion cells (Bachelor's thesis). |
 | [pwm-controller-board](https://github.com/sovetnikovmm/pwm-controller-board) | STM32 controller with an illuminated matrix keypad interface and eight PWM channels for external drivers. |
 | [control-board](https://github.com/sovetnikovmm/control-board) | ATmega16 control board that reads a keypad, drives panel indicators, and commands backup lamp activation when the power board reports a fault. |
 
@@ -37,8 +37,8 @@ All boards listed below have been assembled, and photos of the finished hardware
 | [auto-psu](https://github.com/sovetnikovmm/auto-psu) | Automatic power supply switchover from a 24 V input to a 12 V backup battery, with audible and visual status indication. |
 | [driver4ch](https://github.com/sovetnikovmm/driver4ch) | Four-channel constant-current LED driver with external PWM dimming and current feedback on each channel. |
 | [power-board](https://github.com/sovetnikovmm/power-board) | Power board for main and backup incandescent lamps, with switching stages and lamp feedback for the control board. |
-| [stm32-electronic-dice](https://github.com/sovetnikovmm/stm32-electronic-dice) | STM32-based electronic dice with LED displays that show the roll results. |
-| [turn-signal-sound-indicator](https://github.com/sovetnikovmm/turn-signal-indicator) | Transistor-based audible turn signal indicator: single-layer PCB designed in Altium Designer, with GOST-compliant engineering documentation |
+| [stm32-electronic-dice](https://github.com/sovetnikovmm/stm32-electronic-dice) | STM32-based electronic dice with LED displays that show the roll results. (course project on digital circuitry) |
+| [turn-signal-sound-indicator](https://github.com/sovetnikovmm/turn-signal-indicator) | Transistor-based audible turn signal indicator: single-layer PCB designed in Altium Designer, with GOST-compliant engineering documentation (course project on analog circuitry)  |
 
 ## Contact
 
